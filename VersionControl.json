@@ -1,0 +1,13 @@
+{
+    "projectA": {
+        "currentVersion": "1.0",
+        "latestVersion": "1.1",
+        "releaseNotes": "Additions, fixes, etc."
+    },
+    "projectB": {
+        "currentVersion": "2.0",
+        "latestVersion": "2.2",
+        "releaseNotes": "Enhancements, optimizations, etc."
+    },
+    // Add more projects and version details as needed...
+}
