@@ -1,9 +1,9 @@
 {
 		"namex" : "LilyTheCollector",
-                "currentVersion" : "0.1",
-		"latestVersion" : "0.1",
-		"nextVersion" : "0.2",
-		"nextVestionReleaseDay" : "15/05/25",
+                "currentVersion" : "0.2",
+		"latestVersion" : "0.2",
+		"nextVersion" : "0.3",
+		"nextVestionReleaseDay" : "1747580400",
 		"stores" : "dlsite,steam",
 		"releaseNotes" : "update game"
 }
